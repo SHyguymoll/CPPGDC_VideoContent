@@ -1,0 +1,15 @@
+Tarodev: https://www.youtube.com/c/tarodev
+Dapper Dino: https://www.youtube.com/@DapperDinoCodingTutorials
+M. S. Farzan: https://www.youtube.com/@MSFarzan
+HonestDanGames: https://www.youtube.com/@HonestDanGames
+DitzyNinja's Godojo: https://www.youtube.com/@ditzyninja
+Gaffer On Games: https://gafferongames.com/
+Gabriel Gambetta, Fast-Paced Multiplayer: https://www.gabrielgambetta.com/client-server-game-architecture.html
+Ruoyu Sun: https://ruoyusun.com/2019/03/28/game-networking-1.html
+Choosing TCP or UDP: https://web.archive.org/web/20210415231950/https://heroiclabs.com/docs/expert-tcp-udp/
+Unite Europe 2017 - Photon vs UNet: multiplayer architecture explained: https://www.youtube.com/watch?v=Y1my5bKhKJY
+Introduction to the DOTS Sample and the NetCode that drives it - Unite Copenhagen: https://www.youtube.com/watch?v=P_-FoJuaYOI
+Between Two Servers: https://www.youtube.com/playlist?list=PLzVi6Kh_HMIWKS1aXOV4XobuymoF0P-_S
+Workshop Slides: https://docs.google.com/presentation/d/1jiOPEIYFLctzBSYM262pJoWkp5JMtdFhxQDPmg7pvRo
+
+CPP Game Development Club http://www.cppgamedev.com/index.html
